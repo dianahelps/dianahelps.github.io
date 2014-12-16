@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bruce Lefebvre -- developer -- @brucelefebvre
 
 # THANKS
 
-    <name>
+    Made with <3 for Diana
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Normalize.css
