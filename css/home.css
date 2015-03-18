@@ -43,3 +43,12 @@ h3 {
 	width: 100%;
 	max-width: 155px;
 }
+
+#emailIcon {
+	font-size: 140%;
+}
+
+#addressImg {
+	height: 19px;
+	cursor: pointer;
+}

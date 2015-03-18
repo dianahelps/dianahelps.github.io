@@ -46,7 +46,7 @@
 
             <section>
                 <div>
-                    &#9993; <a id="emailLink" href="mailto:diana@dianahelps.com">diana@dianahelps.com</a> <br/>
+                    <span id="emailIcon">&#9993;</span> <img id="addressImg" src="img/address.png" onclick="postage('dia','na@diana','helps.com ');"/> <br/>
                 </div>
                 <div>
                     &#x260e; <a id="phoneLink" href="tel:1-613-853-7802">1-613-853-7802</a>
@@ -100,6 +100,12 @@
                 </p>
             </section>
         </div>
+
+        <script> 
+            function postage(one,two,three){
+                window.location = 'mailto:'+one+two+three;
+            }
+        </script>
 
         <!-- Google Analytics -->
         <script>
